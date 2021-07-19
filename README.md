@@ -19,9 +19,7 @@ An easy on eye, colorful and alluring note taking app for all
 * Bootstrap
 * Jquery
 
-## Authors
 
-* **Oshodi Kolapo**
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
