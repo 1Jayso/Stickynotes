@@ -31,4 +31,4 @@ jobs:
           context: .
           platforms: linux/amd64
           push: true
-          tags: ${{ secrets.DOCKER_HUB_NAME }}/stickynotes:v1.0.0
+          tags: ${{ secrets.DOCKER_HUB_NAME }}/stickynotes:v1.0.1
